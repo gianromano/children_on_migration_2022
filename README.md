@@ -1,7 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de cómo podrías redactar el archivo README para tu proyecto:
-
----
-
 # Análisis de la Migración de Menores a Europa
 
 ## Descripción del Proyecto
