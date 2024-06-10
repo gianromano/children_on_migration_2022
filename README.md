@@ -63,12 +63,4 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issu
 
 ## Contacto
 
-Para cualquier pregunta o comentario, puedes contactarme en [tu_email@ejemplo.com](mailto:tu_email@ejemplo.com).
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-Este ejemplo de README proporciona una guía clara y completa sobre el proyecto, ayudando a otros usuarios a entender, utilizar y contribuir al mismo. Asegúrate de ajustar los detalles específicos según tu proyecto y necesidades.
+Para cualquier pregunta o comentario, puedes contactarme en [gromanosilicani@gmail.com](mailto:gromanosilicani@gmail.com).
