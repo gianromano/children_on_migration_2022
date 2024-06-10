@@ -6,8 +6,9 @@ Este proyecto realiza un análisis exhaustivo de la migración de menores a Euro
 
 ## Contenido del Repositorio
 
-- **data/**: Contiene los archivos CSV con los datos crudos y procesados utilizados en el análisis.
-- **notebooks/**: Incluye los notebooks de Jupyter (`.ipynb`) con el código de Python utilizado para la limpieza, análisis y modelado de datos.
+- **data/processed/**: Contiene los archivos CSV con los datos procesados utilizados en el análisis.
+- **data/raw/**: Contiene archivo sql con los datos crudos y descargados de la fuente (Eurostat).
+- **notebooks/**: Incluye los notebooks de Jupyter (`.ipynb`) con el código de Python utilizado para análisis y modelado de datos.
 - **visualizations/**: Archivos `.twbx` de Tableau con las visualizaciones interactivas creadas para el proyecto.
 - **models/**: Contiene los modelos de Machine Learning entrenados y sus configuraciones.
 - **README.md**: Archivo que estás leyendo.
